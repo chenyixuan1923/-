@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T01:18:07.497Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="pmk-9bMYHzIq1W8qilkZ" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T01:31:21.129Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yj3GBHDfz0jSSli2SvL4" version="21.0.6" type="github">
   <diagram id="0QNdjRsXSifUzwaE3yXo" name="第 1 页">
     <mxGraphModel dx="1360" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,6 +48,32 @@
             <mxPoint x="390" y="320" as="sourcePoint" />
             <mxPoint x="438" y="181" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NY_yHirFNc_0vGTFGGc1-4" value="&lt;b&gt;删除C\C++测试&lt;br&gt;任务&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="610" y="420" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NY_yHirFNc_0vGTFGGc1-5" value="" style="endArrow=block;html=1;rounded=0;fontSize=14;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;endFill=0;strokeWidth=1;endSize=11;" edge="1" parent="1" target="NY_yHirFNc_0vGTFGGc1-4" source="Wph4KG50UmGnbhIYvJGn-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="630" as="sourcePoint" />
+            <mxPoint x="490" y="540" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NY_yHirFNc_0vGTFGGc1-6" value="&amp;lt;&amp;lt;Extends&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;strokeColor=#990099;fontSize=14;fontStyle=1" connectable="0" vertex="1" parent="NY_yHirFNc_0vGTFGGc1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NY_yHirFNc_0vGTFGGc1-7" value="&lt;b&gt;开始C\C++测试&lt;br&gt;任务&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="380" y="530" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NY_yHirFNc_0vGTFGGc1-8" value="" style="endArrow=block;html=1;rounded=0;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;strokeWidth=1;endSize=11;" edge="1" parent="1" target="NY_yHirFNc_0vGTFGGc1-7" source="Wph4KG50UmGnbhIYvJGn-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="680" as="sourcePoint" />
+            <mxPoint x="330" y="590" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NY_yHirFNc_0vGTFGGc1-9" value="&amp;lt;&amp;lt;Extends&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;strokeColor=#990099;fontSize=14;fontStyle=1" connectable="0" vertex="1" parent="NY_yHirFNc_0vGTFGGc1-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
